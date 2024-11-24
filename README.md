@@ -1,1 +1,1 @@
-# Deep-Learning---FAU-Erlangen-N-rnberg
+# Deep-Learning-Exercies: FAU-Erlangen-Nürnberg
