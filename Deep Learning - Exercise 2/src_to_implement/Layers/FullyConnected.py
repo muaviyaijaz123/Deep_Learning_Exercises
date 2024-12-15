@@ -16,7 +16,7 @@ class FullyConnected(BaseLayer):  # Inherit from the base layer
         self._gradient_weights = None
         self.input_tensor_reuse = None
 
-    def forward(self, input_tensor): # batch size = 7 (batch size, input size) = (4,8)
+    def forward(self, input_tensor):
 
         ones_column = np.ones((input_tensor.shape[0], 1))
 

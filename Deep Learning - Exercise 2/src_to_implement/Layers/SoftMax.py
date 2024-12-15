@@ -10,7 +10,7 @@ class SoftMax(BaseLayer):
     def forward(self, input_tensor):
         max_element_alog_each_row = np.max(input_tensor, axis=1, keepdims=True)
 
-        numerator = np.exp(input_tensor - max_element_alog_each_row)
+        numerator = np.exp(input_tensor - max_element_alog_each_row) # x- max x(k)
         denominator = np.sum(numerator, axis=1, keepdims=True)
 
         # Compute softmax
