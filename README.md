@@ -10,6 +10,7 @@ The repository is organized into the following directories:
 
 - **`Exercise_0`**: Random Patterns Generation using Numpy and Image Generator Development 
 - **`Exercise_1`**: Implementation of Feed Forward Neural Networks.
+- **`Exercise_2`**: Implementation of Convolutional Neural Network.
 - To be continued....
 
 ---
