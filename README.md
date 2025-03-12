@@ -8,10 +8,11 @@ This repository contains solutions to the Deep Learning exercises from the Summe
 ## 📋 **Contents**  
 The repository is organized into the following directories:  
 
-- **`Exercise_0`**: Random Patterns Generation using Numpy and Image Generator Development 
-- **`Exercise_1`**: Implementation of Feed Forward Neural Networks.
-- **`Exercise_2`**: Implementation of Convolutional Neural Network.
-- To be continued....
+- **`Exercise_1`**: Random Patterns Generation using Numpy and Image Generator Development 
+- **`Exercise_2`**: Implementation of Feed Forward Neural Networks.
+- **`Exercise_3`**: Implementation of Convolutional Neural Network.
+- **`Exercise_4`**: Implementation of Recurrent Neural Network and Regularization.
+- **`Exercise_5`**: Solar Cracks Identification of inactive/crack regions using Transfer Learning .
 
 ---
 
